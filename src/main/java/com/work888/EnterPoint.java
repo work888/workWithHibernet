@@ -1,11 +1,11 @@
-package com.seniorofjava;
+package com.work888;
 
 import java.util.Scanner;
 
 import org.hibernate.Session;
 
-import com.seniorofjava.HibernateUtil;
-import com.seniorofjava.User;
+import com.work888.HibernateUtil;
+import com.work888.User;
  
 public class EnterPoint {
  

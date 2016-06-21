@@ -1,4 +1,4 @@
-package com.seniorofjava;
+package com.work888;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package com.seniorofjava;
+package com.work888;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
